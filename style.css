@@ -1,0 +1,34 @@
+body{
+  background-image: url("https://cdn.surfer.com/uploads/2017/12/SRFP-170400-JJFF-038.jpg");
+}
+
+h1, h2{
+  text-align: center;
+  color: orange;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+p{
+  float: center;
+  text-align: center;
+  font-family: "Roboto Mono", sans-serif;
+  color: white;
+  font-size: 12px;
+}
+
+.profiles{
+  width: 200px;
+  height:200px;
+  margin: 0px 15px 15px 0px;
+}
+
+div{
+  width: auto;
+  height: auto;
+  /**background-color:powderblue;**/
+  margin-right:100px;
+  margin-left:100px;
+  background-size:100%;
+  text-align:center;
+  padding:50px 20px 50px 20px;
+}
